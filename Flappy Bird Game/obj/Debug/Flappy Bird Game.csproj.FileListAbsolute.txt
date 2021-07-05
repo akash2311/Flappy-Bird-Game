@@ -1,0 +1,14 @@
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csprojAssemblyReference.cache
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Form1.resources
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.manifest
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.application
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe.manifest
+C:\Users\akash\source\repos\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.application
